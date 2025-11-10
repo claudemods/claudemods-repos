@@ -1,4 +1,4 @@
-# claudemods Arch Linux Repositories
+# claudemods Arch Linux Repositories based on cachyos/kde linux packages
 
 Professional Arch Linux repositories providing custom kernels and KDE development packages.
 
